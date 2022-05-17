@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  tempo:
+  - apiVersion: v2
+    appVersion: 1.4.1
+    created: "2022-05-17T16:50:20.3260054+03:00"
+    description: Grafana Tempo Single Binary Mode
+    digest: 73b922c532e8d6e4ff3fa5fc6ac0cf9a57a90d31437ab22002ec8f13719edfa8
+    home: https://grafana.net
+    icon: https://raw.githubusercontent.com/grafana/tempo/master/docs/tempo/website/logo_and_name.png
+    maintainers:
+    - email: number101010@gmail.com
+      name: joe-elliott
+    - email: 9215868@gmail.com
+      name: swartz-k
+    - name: annanay25
+    - name: mdisibio
+    - name: dgzlopes
+    - name: mapno
+    name: tempo
+    sources:
+    - https://github.com/grafana/tempo
+    type: application
+    urls:
+    - https://ovidiubuligan.github.io/helm-charts/tempo-0.15.1.tgz
+    version: 0.15.1
+generated: "2022-05-17T16:50:20.3239965+03:00"
